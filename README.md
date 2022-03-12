@@ -5,7 +5,7 @@ All files pertaining to the Dynamometer Operation (particular to use by HSWET)
 
 Dynamometer not connecting to computer while using odrivetool
 
-  S: I'd either power cycle the dynamometer, ensure the dynamometer is in RUN mode (the physical switch on the dynamometer), and if all else fails reflash the odrivetool with the latest firmware available on the official ODrive git.
+  S: I'd either power cycle the dynamometer, ensure the dynamometer is in RUN mode (the physical switch on the dynamometer), and if all else fails reflash the ODrive with the latest firmware available on the official ODrive git.
 
 Followup: The dynamometer is a pain to flash what do?
 
